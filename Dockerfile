@@ -1,4 +1,4 @@
-FROM logstash:2.4
+FROM logstash:2.4-alpine
 
 MAINTAINER John Zhuang <zhuangyinping@suxianginvestment.com>
 
