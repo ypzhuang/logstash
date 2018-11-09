@@ -1,0 +1,4 @@
+= Logstash 
+
+* for swarm env
+
