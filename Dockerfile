@@ -1,6 +1,6 @@
-FROM logstash:2.4-alpine
+FROM logstash:2.4
 
-MAINTAINER John Zhuang <zhuangyinping@suxianginvestment.com>
+MAINTAINER ypzhuang <zhuangyinping@gmail.com>
 
 RUN mkdir /config/
 
